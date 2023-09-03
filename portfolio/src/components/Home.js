@@ -46,7 +46,7 @@ const Home = () => {
                       marginTop: "10px",
                       backgroundColor: "red",
                     }}
-                    href="https://drive.google.com/file/d/1KNvQVDZmKjjHC07zdBdHztODeI48i0q_/view?usp=sharing"
+                    href="https://docs.google.com/document/d/1yCKBAOJa84qGndRfNDqFFPe6_Nsq7phu/edit?usp=sharing&ouid=114809846895807608653&rtpof=true&sd=true"
                     startIcon={<Pageview style={{ fontSize: 35 }} />}
                   >
                     Resume
